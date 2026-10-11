@@ -1,9 +1,9 @@
 # Hi there! I'm Martí 👋
 ### Aerospace Engineer | Specialized in Air Navigation
 
-[![LinkedIn](www.linkedin.com/in/martí-paré-ogg-4878812b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/martí-paré-ogg-4878812b9)
 [![PDF Portfolio](https://img.shields.io/badge/PDF_Portfolio-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-portfolio-pdf-link.pdf)
-[![Email](mailto:martipareo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martipareo@gmail.com)
 
 ---
 
